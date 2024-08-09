@@ -1,12 +1,12 @@
 # jd_scripts(京东脚本)
-##  京东免费上车地址: [https://jdc.52hym666.top](https://jdc.52hym666.top/)
+##  京东免费上车地址: [https://xy.52hym666.top](https://xy.52hym666.top/)
 
 ## TG群: https://t.me/lulegemao
 
 **首次上车需要扫码关注Wxpusher公众号, 不然没办法收到微信消息通知**
 
 ##   上车教程
-1. 打开网站[https://jdc.52hym666.top](https://jdc.52hym666.top/)
+1. 打开网站[https://xy.52hym666.top](https://xy.52hym666.top/)
    ![img.png](/images/img.png)
 2. 输入手机号码, 点击获取验证码。
 3. 手机查看收到的京东短信验证码, 输入验证码后, 点击登录上车。
@@ -21,7 +21,7 @@
 ![img_6.png](/images/img_6.png)
 
 ##   特别提醒
-- 如果发现手机上的京东登录状态失效, 则及时到[https://jdc.52hym666.top](https://jdc.52hym666.top/)重新提交CK!
+- 如果发现手机上的京东登录状态失效, 则及时到[https://xy.52hym666.top](https://xy.52hym666.top/)重新提交CK!
 <div class="modal-body">
                  <div class="alert alert-success" id="notice"><div style="text-align:left;">  0  <span style="color: E53333;"><strong>特别提醒：</strong></span>为了保障您账号的安全  请设置支付密码并目关闭免密支付！！！</div><div style="text-align:left;">  1  <span style="color: E53333;"><strong>东东农场：</strong></span>完成后只兑换不下单  可兑得无门槛红包(Level 4 的水果价值50元)。适用于京东  京喜和京东极速版APP；</div><div style="text-align:left;">  2  <span style="color: E53333;"><strong>东东萌宠：</strong></span>完成后只兑换不下单  可兑得20元无门槛红包。适用于京东APP；</div><div style="text-align:left;">  3  <span style="color: E53333;"><strong>京喜工厂：</strong></span>产品生产完成后  须在有效期内完成兑换  逾期作废；</div><div style="text-align:left;">  4  <span style="color: E53333;"><strong>京喜购物：</strong></span>参加他人发起的团购  可立即成团  卖家发货较快。自行发起团购需拼团成功或等卖家处理后才发货；</div><div style="text-align:left;">  5  <span style="color: E53333;"><strong>京喜红包：</strong></span>有效期为48小时  请及时使用；</div><div style="text-align:left;">  6  <span style="color: E53333;"><strong>东东健康社区：</strong></span>常有1元好物  比如口罩  维生素等等；</div><div style="text-align:left;">  7  <span style="color: E53333;"><strong>京东赚赚红包：</strong></span>每月1号0点抢  仅适用于京东APP；</div><div style="text-align:left;">  8  <span style="color: E53333;"><strong>京东极速版金币：</strong></span>建议累计金额达50元或100元兑换无门槛红包  仅适用于京东极速版 APP；</div><div style="text-align:left;">  9  <span style="color: E53333;"><strong>京东APP-我的-优惠券：</strong></span>每天自动领取若干优惠券  以备不时之需。</div><div style="text-align:left;">  &nbsp; &nbsp; &nbsp; &nbsp; 注：①所有符号均为英文半角符号  无空格；</div><div style="text-align:left;">  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ②抓包时如果没有 pin   可用 pt_pin 的值代替。</div></div>
 </div>
