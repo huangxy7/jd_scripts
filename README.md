@@ -12,11 +12,11 @@
    ![img_1.png](/images/img_1.png)
 4. 填写备注(如: xx的号, 也可以不填), 然后点击提交CK。
    ![img_2.png](/images/img_2.png)
-5. 提交完CK后,会出现一个二维码, 这个是消息推送的公众号, 微信扫码关注, 关注之后才能收到资产推送。
+6. 提交完CK后,会出现一个二维码, 这个是消息推送的公众号, 微信扫码关注, 关注之后才能收到资产推送。
    ![img_4.png](/images/img_4.png)
-6. 资产推送的信息如图:
+7. 资产推送的信息如图:
    ![img_5.png](/images/img_5.png)
-7. 京豆可以干嘛?
+8. 京豆可以干嘛?
 ![img_6.png](/images/img_6.png)
 
 ##   特别提醒
@@ -37,5 +37,5 @@
  python  js  javascript  nodejs  rust  go  京豆 原神 游戏  autojs 红包 薅羊毛 JD
  nastool  nginx  redis  bilibili  qq  wechat  telegram 测试 
 <!-- START -->
-<!-- 1723193069091 -->
+<!-- 1723193069095551 -->
 <!-- END -->
