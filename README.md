@@ -1,7 +1,7 @@
 # jd_scripts(京东脚本)
 ##  京东免费上车地址: [https://xy.52hym666.top](https://xy.52hym666.top/)
 
-## TG群: https://t.me/lulegemao
+## TG群: [https://t.me/lulegemao](https://t.me/+lMiTfwIkng41Njg1)
 
 **首次上车需要扫码关注Wxpusher公众号, 不然没办法收到微信消息通知**
 
